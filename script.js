@@ -481,7 +481,7 @@ window.onload = function (){
             }
         }
 
-        //网初始
+        //網子初始化
         function webinit() {
           for (i = 0; i < 10; i++) {
               webarray.push({
